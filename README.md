@@ -1,2 +1,4 @@
 # Hello-World
-just a practice repository
+hello!
+my name is Riddhi Shinde.
+i am currently persuing my masters degree at goa university in Goa. 
